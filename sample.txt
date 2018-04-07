@@ -1,0 +1,9 @@
+md_to_audioはmarkdown形式のsimple text fileから、それを適切な区切りで読み上げた音声ファイルを生成するrubyのスクリプトです。
+
+====
+
+hogehoge
+
+====
+
+=4つの区切り線で段落とみなし、1秒の間隔をあけます
